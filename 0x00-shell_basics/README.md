@@ -1,6 +1,5 @@
-a;jkdf;asfklja;jkfldjfkl;
-s
-df
-sd
-ffds
-f
+school
+School
+all
+yes
+No
